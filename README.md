@@ -7,7 +7,7 @@ Another problem that most people experience is a malfunctioning floating valve t
 
 The discomfort of having outside clothing and furniture become wet from rain is another frequent issue that many people encounter. Everything that is left outside, including our outdoor furniture and cushions and clothing, might get unexpectedly dampened by rain and can get damaged.
 
-[For more information](https://github.com/leonfdo/Product_design/blob/main/Final_report.pdf)
+[Final Report](https://github.com/leonfdo/Product_design/blob/main/Final_report.pdf)
 
 ![pic5](https://github.com/leonfdo/Product_design/assets/78163260/ed9dfff0-cbcf-4977-bc3c-d44c84d79078)
 ![pic4](https://github.com/leonfdo/Product_design/assets/78163260/48c83490-9c00-4bf2-a0d0-0a0ed7670101)
